@@ -1,0 +1,32 @@
+{
+  "interface": {
+    "displayName": "FluentPath AI",
+    "shortDescription": "Professor de ingl\u00eas CEFR",
+    "longDescription": "Curso particular adaptativo de ingl\u00eas do A1 ao C2. Inclui diagn\u00f3stico, aulas sequenciais com meta configur\u00e1vel de 85\u2013100% e dom\u00ednio de todas as compet\u00eancias essenciais de cada n\u00edvel, refor\u00e7o individual, conversa\u00e7\u00e3o, pron\u00fancia e revis\u00e3o espa\u00e7ada. Integra Duolingo como complemento, sem substituir o curr\u00edculo.",
+    "developerName": "FluentPath AI",
+    "category": "Education & Research",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Quero iniciar meu curso particular de ingl\u00eas. Conhe\u00e7a meus objetivos e minha rotina, avalie meu n\u00edvel real e organize uma jornada personalizada pelo CEFR antes da primeira aula.",
+      "J\u00e1 estudo ingl\u00eas com Duolingo, um curso ou outro m\u00e9todo. Quero integrar esses estudos ao FluentPath AI, identificar lacunas e construir um \u00fanico plano alinhado ao CEFR.",
+      "Quero continuar meu curso FluentPath AI de onde parei. Use meu hist\u00f3rico dispon\u00edvel, preserve conquistas e dificuldades e retome a atividade pendente sem reiniciar desnecessariamente."
+    ]
+  },
+  "name": "fluentpath-ai",
+  "version": "0.1.7",
+  "description": "Professor particular de ingl\u00eas com percurso CEFR A1-C2, aprova\u00e7\u00e3o por dom\u00ednio de 100%, refor\u00e7o adaptativo, pr\u00e1tica por voz e revis\u00e3o espa\u00e7ada.",
+  "author": {
+    "name": "FluentPath AI"
+  },
+  "keywords": [
+    "ingles",
+    "english",
+    "CEFR",
+    "tutor",
+    "pronuncia",
+    "educacao"
+  ],
+  "skills": "./skills"
+}

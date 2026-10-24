@@ -1,0 +1,435 @@
+{
+  "generatedAt": "2026-10-24T15:11:30.425Z",
+  "sources": [
+    "/skills/fluentpath-professor/references/curriculo-cefr.md",
+    "/skills/fluentpath-professor/references/marcos-cefr-criterios.md"
+  ],
+  "levels": [
+    {
+      "code": "A1",
+      "name": "Iniciante",
+      "outcome": "apresentar-se, compreender instruções simples, lidar com informações pessoais e participar de trocas curtas com fala clara/lenta e apoio adequado.",
+      "modules": [
+        {
+          "code": "A1-M1",
+          "title": "Fundamentos de frase"
+        },
+        {
+          "code": "A1-M2",
+          "title": "Pronúncia essencial"
+        },
+        {
+          "code": "A1-M3",
+          "title": "Eu e minha família"
+        },
+        {
+          "code": "A1-M4",
+          "title": "Hábitos e rotina"
+        },
+        {
+          "code": "A1-M5",
+          "title": "Objetos e lugares"
+        },
+        {
+          "code": "A1-M6",
+          "title": "Habilidades e necessidades"
+        },
+        {
+          "code": "A1-M7",
+          "title": "Situações reais"
+        },
+        {
+          "code": "A1-M8",
+          "title": "Projeto integrador"
+        }
+      ],
+      "exitCompetencies": [
+        {
+          "code": "A1-L",
+          "skill": "Listening",
+          "description": "identificar palavras familiares e informações pessoais em mensagens curtas, faladas devagar e claramente."
+        },
+        {
+          "code": "A1-R",
+          "skill": "Reading",
+          "description": "compreender frases e textos muito simples, como avisos, apresentações e instruções cotidianas curtas."
+        },
+        {
+          "code": "A1-SP",
+          "skill": "Spoken production",
+          "description": "apresentar-se e descrever, com frases simples, onde mora, sua rotina imediata ou pessoas conhecidas."
+        },
+        {
+          "code": "A1-SI",
+          "skill": "Spoken interaction",
+          "description": "fazer e responder perguntas básicas de nome, origem, trabalho, família, objetos e necessidades imediatas, com interlocutor cooperativo e fala lenta."
+        },
+        {
+          "code": "A1-W",
+          "skill": "Writing",
+          "description": "preencher informações pessoais e produzir mensagens/frases muito curtas sobre assuntos familiares."
+        },
+        {
+          "code": "A1-M",
+          "skill": "Mediation",
+          "description": "transmitir em termos muito simples uma informação curta e concreta familiar, com apoio quando necessário."
+        }
+      ]
+    },
+    {
+      "code": "A2",
+      "name": "Básico",
+      "outcome": "manejar tarefas simples e rotineiras, descrever aspectos de vida, passado e planos, trocar informação direta sobre temas familiares.",
+      "modules": [
+        {
+          "code": "A2-M1",
+          "title": "Revisão integrada do presente e formas de rotina"
+        },
+        {
+          "code": "A2-M2",
+          "title": "Present Continuous versus Simple Present; acontecimentos atuais"
+        },
+        {
+          "code": "A2-M3",
+          "title": "Simple Past; verbos regulares e irregulares; narrativas curtas"
+        },
+        {
+          "code": "A2-M4",
+          "title": "Futuro com going to e will; compromissos e planos"
+        },
+        {
+          "code": "A2-M5",
+          "title": "Comparativos, superlativos, quantificadores e contáveis/incontáveis"
+        },
+        {
+          "code": "A2-M6",
+          "title": "Solicitações, modais básicos, conselhos e obrigações frequentes"
+        },
+        {
+          "code": "A2-M7",
+          "title": "Viagens, saúde cotidiana, compras, experiências e relatos pessoais"
+        },
+        {
+          "code": "A2-M8",
+          "title": "Integração de competências, tarefas e avaliação de nível"
+        }
+      ],
+      "exitCompetencies": [
+        {
+          "code": "A2-L",
+          "skill": "Listening",
+          "description": "compreender expressões frequentes e o ponto principal de mensagens curtas e claras sobre necessidades cotidianas."
+        },
+        {
+          "code": "A2-R",
+          "skill": "Reading",
+          "description": "encontrar informações previsíveis em anúncios, horários, menus, mensagens e textos curtos."
+        },
+        {
+          "code": "A2-SP",
+          "skill": "Spoken production",
+          "description": "descrever de modo simples família, formação, trabalho, acontecimentos familiares e planos próximos."
+        },
+        {
+          "code": "A2-SI",
+          "skill": "Spoken interaction",
+          "description": "participar de trocas rotineiras diretas, como pedir informação, comprar, organizar encontro ou falar de hábitos."
+        },
+        {
+          "code": "A2-W",
+          "skill": "Writing",
+          "description": "escrever mensagens pessoais curtas, recados e descrições simples sobre fatos e necessidades."
+        },
+        {
+          "code": "A2-M",
+          "skill": "Mediation",
+          "description": "comunicar a outra pessoa os pontos principais de informações cotidianas simples que compreendeu."
+        }
+      ]
+    },
+    {
+      "code": "B1",
+      "name": "Intermediário",
+      "outcome": "compreender pontos principais de conteúdos claros sobre temas familiares; manter conversas, explicar opiniões, experiências, planos e justificar escolhas.",
+      "modules": [
+        {
+          "code": "B1-M1",
+          "title": "Tempos verbais e organização de narrativas"
+        },
+        {
+          "code": "B1-M2",
+          "title": "Present Perfect e Simple Past em contraste"
+        },
+        {
+          "code": "B1-M3",
+          "title": "Narrativas mais longas, conectores, sequência temporal"
+        },
+        {
+          "code": "B1-M4",
+          "title": "Condicionais frequentes, hipóteses e modais"
+        },
+        {
+          "code": "B1-M5",
+          "title": "Opiniões, concordância/discordância, argumentos e justificativas"
+        },
+        {
+          "code": "B1-M6",
+          "title": "Listening de fala natural acessível e conversação espontânea"
+        },
+        {
+          "code": "B1-M7",
+          "title": "Comunicação profissional, resolução de problemas e mensagens"
+        },
+        {
+          "code": "B1-M8",
+          "title": "Projeto integrado"
+        }
+      ],
+      "exitCompetencies": [
+        {
+          "code": "B1-L",
+          "skill": "Listening",
+          "description": "entender pontos principais de fala clara sobre temas familiares de trabalho, estudos, lazer e notícias acessíveis."
+        },
+        {
+          "code": "B1-R",
+          "skill": "Reading",
+          "description": "compreender textos correntes e relatos de acontecimentos, sentimentos ou interesses pessoais."
+        },
+        {
+          "code": "B1-SP",
+          "skill": "Spoken production",
+          "description": "relatar experiências e eventos, organizar uma narrativa simples e justificar opiniões, intenções e planos."
+        },
+        {
+          "code": "B1-SI",
+          "skill": "Spoken interaction",
+          "description": "lidar com situações comuns de viagem e sustentar conversas sobre assuntos familiares, formulando e esclarecendo perguntas."
+        },
+        {
+          "code": "B1-W",
+          "skill": "Writing",
+          "description": "produzir texto conectado sobre temas familiares, com experiências, opiniões e justificativas simples."
+        },
+        {
+          "code": "B1-M",
+          "skill": "Mediation",
+          "description": "resumir e transmitir de maneira clara os pontos essenciais de uma mensagem ou relato familiar."
+        }
+      ]
+    },
+    {
+      "code": "B2",
+      "name": "Intermediário superior",
+      "outcome": "interação com relativa espontaneidade, compreensão de ideias centrais complexas, argumentos detalhados, textos claros e comunicação independente.",
+      "modules": [
+        {
+          "code": "B2-M1",
+          "title": "Consolidação e precisão gramatical"
+        },
+        {
+          "code": "B2-M2",
+          "title": "Voz passiva, discurso indireto, condicionais e contraste verbal avançado"
+        },
+        {
+          "code": "B2-M3",
+          "title": "Colocações, phrasal verbs e vocabulário contextual"
+        },
+        {
+          "code": "B2-M4",
+          "title": "Debates, argumentação, opiniões fundamentadas"
+        },
+        {
+          "code": "B2-M5",
+          "title": "Listening de entrevistas, apresentações e variedades de fala"
+        },
+        {
+          "code": "B2-M6",
+          "title": "Escrita de e-mails, relatórios e textos argumentativos"
+        },
+        {
+          "code": "B2-M7",
+          "title": "Reuniões, entrevistas, negociação e solução de situações reais"
+        },
+        {
+          "code": "B2-M8",
+          "title": "Avaliação integrada com situações inéditas e rubricas CEFR"
+        }
+      ],
+      "exitCompetencies": [
+        {
+          "code": "B2-L",
+          "skill": "Listening",
+          "description": "seguir discursos mais longos e argumentações relativamente complexas sobre tópicos familiares e de interesse próprio."
+        },
+        {
+          "code": "B2-R",
+          "skill": "Reading",
+          "description": "compreender ideias centrais e pontos de vista em textos mais complexos, inclusive temas de sua área profissional."
+        },
+        {
+          "code": "B2-SP",
+          "skill": "Spoken production",
+          "description": "explicar argumentos e pontos de vista com clareza, detalhando vantagens e desvantagens e mantendo organização."
+        },
+        {
+          "code": "B2-SI",
+          "skill": "Spoken interaction",
+          "description": "interagir com espontaneidade e fluidez suficientes para conversação regular e participar de discussões com independência."
+        },
+        {
+          "code": "B2-W",
+          "skill": "Writing",
+          "description": "produzir textos claros e detalhados, relatórios, e-mails argumentativos e defesa de posições."
+        },
+        {
+          "code": "B2-M",
+          "skill": "Mediation",
+          "description": "sintetizar informação de fontes acessíveis e comunicar pontos de vista ou decisões para outra audiência."
+        }
+      ]
+    },
+    {
+      "code": "C1",
+      "name": "Avançado",
+      "outcome": "compreensão de linguagem extensa e exigente; comunicação fluente e flexível, boa organização, precisão e adequação profissional/educacional.",
+      "modules": [
+        {
+          "code": "C1-M1",
+          "title": "Nuances estruturais e escolhas gramaticais"
+        },
+        {
+          "code": "C1-M2",
+          "title": "Léxico abstrato, técnico, idiomático e especializado"
+        },
+        {
+          "code": "C1-M3",
+          "title": "Registro, tom, formalidade e sensibilidade pragmática"
+        },
+        {
+          "code": "C1-M4",
+          "title": "Listening e leitura de conteúdos extensos e implícitos"
+        },
+        {
+          "code": "C1-M5",
+          "title": "Síntese crítica, argumentação e mediação"
+        },
+        {
+          "code": "C1-M6",
+          "title": "Escrita complexa, acadêmica/profissional, revisão de estilo"
+        },
+        {
+          "code": "C1-M7",
+          "title": "Apresentações, debates e conversação espontânea avançada"
+        },
+        {
+          "code": "C1-M8",
+          "title": "Avaliação integrada com múltiplas tarefas autênticas"
+        }
+      ],
+      "exitCompetencies": [
+        {
+          "code": "C1-L",
+          "skill": "Listening",
+          "description": "compreender exposições extensas, complexas e ideias implícitas quando o assunto/contexto permitir."
+        },
+        {
+          "code": "C1-R",
+          "skill": "Reading",
+          "description": "compreender textos longos, exigentes e variados, identificando estruturas, estilo e sentido implícito."
+        },
+        {
+          "code": "C1-SP",
+          "skill": "Spoken production",
+          "description": "expressar-se fluentemente e organizar apresentações detalhadas sobre temas complexos com registro apropriado."
+        },
+        {
+          "code": "C1-SI",
+          "skill": "Spoken interaction",
+          "description": "interagir espontaneamente, adaptar registro e defender posições com flexibilidade em situações sociais/profissionais."
+        },
+        {
+          "code": "C1-W",
+          "skill": "Writing",
+          "description": "escrever textos bem estruturados e detalhados sobre temas complexos, com coesão, estilo e argumentação."
+        },
+        {
+          "code": "C1-M",
+          "skill": "Mediation",
+          "description": "sintetizar e reformular materiais complexos de fontes variadas para públicos diferentes, preservando nuances relevantes."
+        }
+      ]
+    },
+    {
+      "code": "C2",
+      "name": "Proficiência",
+      "outcome": "compreensão de praticamente tudo em múltiplos registros; síntese de fontes, expressão espontânea, precisa e sensível a nuances, com critérios proporcionais ao CEFR (não exigir sotaque nativo).",
+      "modules": [
+        {
+          "code": "C2-M1",
+          "title": "Variedades, registros, implicaturas e linguagem sofisticada"
+        },
+        {
+          "code": "C2-M2",
+          "title": "Nuances semânticas, idiomatismos e linguagem figurada"
+        },
+        {
+          "code": "C2-M3",
+          "title": "Argumentação oral sutil, precisão e reformulação"
+        },
+        {
+          "code": "C2-M4",
+          "title": "Análise crítica de textos complexos e discursos"
+        },
+        {
+          "code": "C2-M5",
+          "title": "Escrita com domínio de gênero, audiência e estilo"
+        },
+        {
+          "code": "C2-M6",
+          "title": "Mediação avançada e síntese intercultural"
+        },
+        {
+          "code": "C2-M7",
+          "title": "Simulações interativas de alta complexidade"
+        },
+        {
+          "code": "C2-M8",
+          "title": "Avaliação integrada, tarefas inéditas e revisão de evidências"
+        }
+      ],
+      "exitCompetencies": [
+        {
+          "code": "C2-L",
+          "skill": "Listening",
+          "description": "compreender com facilidade uma gama muito ampla de fala natural, inclusive conteúdo complexo ou rápido após adaptação razoável ao sotaque."
+        },
+        {
+          "code": "C2-R",
+          "skill": "Reading",
+          "description": "compreender com facilidade textos abstratos, densos e linguisticamente sofisticados, de diferentes gêneros."
+        },
+        {
+          "code": "C2-SP",
+          "skill": "Spoken production",
+          "description": "expressar argumentos e narrativas espontaneamente, com grande fluidez, precisão e nuances sutis."
+        },
+        {
+          "code": "C2-SI",
+          "skill": "Spoken interaction",
+          "description": "participar sem esforço relevante de interações complexas, adaptar-se e reformular com precisão quando necessário."
+        },
+        {
+          "code": "C2-W",
+          "skill": "Writing",
+          "description": "produzir textos sofisticados, claros, coesos e adequados a gênero, audiência e intenção."
+        },
+        {
+          "code": "C2-M",
+          "skill": "Mediation",
+          "description": "combinar, sintetizar, reconstruir e transmitir informações e argumentos de várias fontes com precisão e sensibilidade a diferenças de significado."
+        }
+      ]
+    }
+  ]
+}

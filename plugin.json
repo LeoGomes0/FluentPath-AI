@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fluentpath-ai",
+  "version": "0.1.7",
+  "description": "Professor particular de inglês com percurso CEFR A1-C2, aprovação por domínio de 100%, reforço adaptativo, prática por voz e revisão espaçada.",
+  "author": {
+    "name": "FluentPath AI"
+  },
+  "keywords": [
+    "ingles",
+    "english",
+    "CEFR",
+    "tutor",
+    "pronuncia",
+    "educacao"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "FluentPath AI",
+        "shortDescription": "Professor de inglês CEFR",
+        "longDescription": "Curso particular adaptativo de inglês do A1 ao C2. Inclui diagnóstico, aulas sequenciais com meta configurável de 85–100% e domínio de todas as competências essenciais de cada nível, reforço individual, conversação, pronúncia e revisão espaçada. Integra Duolingo como complemento, sem substituir o currículo.",
+        "developerName": "FluentPath AI",
+        "category": "Education & Research",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": [
+          "Quero iniciar meu curso particular de inglês. Conheça meus objetivos e minha rotina, avalie meu nível real e organize uma jornada personalizada pelo CEFR antes da primeira aula.",
+          "Já estudo inglês com Duolingo, um curso ou outro método. Quero integrar esses estudos ao FluentPath AI, identificar lacunas e construir um único plano alinhado ao CEFR.",
+          "Quero continuar meu curso FluentPath AI de onde parei. Use meu histórico disponível, preserve conquistas e dificuldades e retome a atividade pendente sem reiniciar desnecessariamente."
+        ]
+      }
+    }
+  }
+}
